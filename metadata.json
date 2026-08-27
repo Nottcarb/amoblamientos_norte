@@ -1,0 +1,6 @@
+{
+  "name": "Amoblamientos Norte",
+  "description": "Fábrica y catálogo de mobiliario industrial, gastronómico, escolar y corporativo al por mayor con cotizador por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
